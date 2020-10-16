@@ -1,0 +1,23 @@
+#about {
+    padding: 3rem 0;
+    margin-bottom: 8rem;
+    text-align: center;
+}
+
+#about h2 {
+    margin-bottom: 3rem;
+}
+
+#about .flex > div {
+    width: 30%;
+}
+
+#about h4 {
+    color: #343a40;
+    margin-top: 1rem;
+}
+
+#about span.fas {
+    color: #343a40;
+    font-size: 35px;
+}

@@ -1,0 +1,29 @@
+#desc {
+    margin: 2rem 0;
+}
+
+#desc .flex > img {
+    width: 47%;
+}
+
+#desc .flex > div {
+    width: 40%;
+}
+
+#desc ul {
+    padding-left: 20px;
+    margin-bottom: 4rem;
+}
+
+#desc ul li {
+    margin: 10px 0;
+}
+@media (max-width: 767px) {
+    #desc .flex > img {
+        display: none;
+    }
+
+    #desc .flex > div {
+        width: 100%;
+    }
+}
